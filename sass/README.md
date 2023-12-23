@@ -113,7 +113,7 @@ body
   .child {
     color: black
   }
-**}
+}
 ```
 
 ``child`` 클래스를 가지고 있는 태그가 만약 ``parent``클래스 내에 있다면 color가 검은색상이 됩니다.
